@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1756697525 source:c:\users\dkjm0\onedrive\바탕 화면\자료구조\hw1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1756702351 source:c:\users\dkjm0\onedrive\바탕 화면\자료구조\hw1\bidding.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
