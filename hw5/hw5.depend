@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1757752128 source:c:\users\dkjm0\onedrive\바탕 화면\자료구조\hw5\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+
+1757759779 source:c:\users\dkjm0\onedrive\바탕 화면\자료구조\hw5\waiting.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+
